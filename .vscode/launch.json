@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run game.py with venv",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/game.py",
+            "python": "/home/codingacc30/projectfile/.venv/bin/python"
+        }
+    ]
+}
